@@ -17,7 +17,7 @@ To run this program, you need:
 
 ### Using GHC
 
-If you prefer to use GHC directly, you can compile and run the program with these commands:
+You can compile and run the program with these commands:
 
 ```sh
 ghc -package containers -o kruskal Kruskal.hs
