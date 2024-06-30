@@ -1,4 +1,3 @@
-```markdown
 # Kruskal's Algorithm in Haskell
 
 This repository contains a Haskell implementation of Kruskal's algorithm for finding the Minimum Spanning Tree (MST) of a graph. The program reads a list of edges from an input file, computes the MST, and generates a DOT file for visualizing the graph with the MST highlighted.
