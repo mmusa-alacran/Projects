@@ -2,6 +2,7 @@ import Data.List (sortBy)
 import qualified Data.Map as Map
 import qualified Data.Set as Set
 import System.Environment (getArgs)
+import System.Exit (exitSuccess)
 
 -- Define the data types
 type Vertex = Int
@@ -76,7 +77,9 @@ main = do
       let dotGraph = createDotGraph edges mst
       writeFile outputFilePath dotGraph
       putStrLn $ "DOT file written to: " ++ outputFilePath
-    _ -> error "Usage: program inputFilePath outputFilePath"
+    _ -> do
+      putStrLn "ERROR => Usage: program inputFilePath outputFilePath"
+      exitSuccess
 
 -- Read edges from a file
 readEdgesFromFile :: FilePath -> IO Graph
