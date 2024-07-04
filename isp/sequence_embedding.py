@@ -22,7 +22,7 @@ class SequenceEmbedding:
             self.model = EsmModel.from_pretrained("facebook/esm2_t6_8M_UR50D")
         else:
             # Raise an error if an unsupported transformer model is specified
-            raise ValueError("Unsupported transformer. Choose 'protbert' or 'esm'.")
+            raise ValueError("Unsupported transformer. Choose 'bert' or 'esm2'.")
 
         # Move the model to the device (GPU or CPU)
         self.model.to(self.device)
