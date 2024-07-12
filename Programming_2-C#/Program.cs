@@ -1,9 +1,6 @@
 ﻿using Gtk;
 using Cairo;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 
 // Main class to start the GTK application
 public class Program
