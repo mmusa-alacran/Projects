@@ -9,8 +9,8 @@ THRESHOLD = 1022  # Max sequence length for the model
 
 def main(file_path):
     # Load ESM-2 model
-    tokenizer = EsmTokenizer.from_pretrained("facebook/esm2_t6_8M_UR50D")
-    model = EsmModel.from_pretrained("facebook/esm2_t6_8M_UR50D")
+    tokenizer = EsmTokenizer.from_pretrained("facebook/esm2_t36_3B_UR50D")
+    model = EsmModel.from_pretrained("facebook/esm2_t36_3B_UR50D")
     output_dir = 'embeddings'
     device = torch.device("cuda")
     model.to(device)
