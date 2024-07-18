@@ -18,8 +18,8 @@ class SequenceEmbedding:
             self.model = BertModel.from_pretrained("Rostlab/prot_bert")
         elif transformer == 'esm2':
             # ESM-2 is a model designed specifically for protein sequences
-            self.tokenizer = EsmTokenizer.from_pretrained("facebook/esm2_t6_8M_UR50D")
-            self.model = EsmModel.from_pretrained("facebook/esm2_t6_8M_UR50D")
+            self.tokenizer = EsmTokenizer.from_pretrained("facebook/esm2_t36_3B_UR50D")
+            self.model = EsmModel.from_pretrained("facebook/esm2_t36_3B_UR50D")
         else:
             # Raise an error if an unsupported transformer model is specified
             raise ValueError("Unsupported transformer. Choose 'bert' or 'esm2'.")
