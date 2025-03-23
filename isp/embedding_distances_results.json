@@ -1,0 +1,4457 @@
+{
+    "121p": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "M",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.841372966766357,
+                "cosine_similarity_residue": 0.5212104320526123
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "T",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 3.7480826377868652,
+                "cosine_similarity_residue": 0.6635346412658691
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "E",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 4.650474548339844,
+                "cosine_similarity_residue": 0.5305674076080322
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "Y",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.100368022918701,
+                "cosine_similarity_residue": 0.4736824631690979
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "K",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.799261093139648,
+                "cosine_similarity_residue": 0.4853692948818207
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 166,
+                "residue1_type": "M",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.673233509063721,
+                "cosine_similarity_residue": 0.5262951850891113
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 165,
+                "residue1_type": "M",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.785918235778809,
+                "cosine_similarity_residue": 0.5394541025161743
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 166,
+                "residue1_type": "T",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.063358306884766,
+                "cosine_similarity_residue": 0.35259202122688293
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 164,
+                "residue1_type": "M",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.864548683166504,
+                "cosine_similarity_residue": 0.5216911435127258
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 165,
+                "residue1_type": "T",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.804898262023926,
+                "cosine_similarity_residue": 0.4743608832359314
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 69,
+                "residue2_index": 70,
+                "residue1_type": "D",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 5.541654109954834,
+                "cosine_similarity_residue": 0.45027369260787964
+            },
+            {
+                "residue1_index": 29,
+                "residue2_index": 30,
+                "residue1_type": "V",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.897461414337158,
+                "cosine_similarity_residue": 0.5439313650131226
+            },
+            {
+                "residue1_index": 144,
+                "residue2_index": 145,
+                "residue1_type": "T",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 4.258266448974609,
+                "cosine_similarity_residue": 0.6134086847305298
+            },
+            {
+                "residue1_index": 47,
+                "residue2_index": 48,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.567915439605713,
+                "cosine_similarity_residue": 0.6162190437316895
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "M",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.841372966766357,
+                "cosine_similarity_residue": 0.5212104320526123
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 122,
+                "residue1_type": "M",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.042186737060547,
+                "cosine_similarity_residue": 0.48974671959877014
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 124,
+                "residue1_type": "M",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.985861778259277,
+                "cosine_similarity_residue": 0.5028422474861145
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 121,
+                "residue1_type": "M",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.190486907958984,
+                "cosine_similarity_residue": 0.4551967978477478
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 123,
+                "residue1_type": "M",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.978130340576172,
+                "cosine_similarity_residue": 0.5315389037132263
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 122,
+                "residue1_type": "T",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.019558429718018,
+                "cosine_similarity_residue": 0.4283463656902313
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 69,
+                "residue2_index": 70,
+                "residue1_type": "D",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 5.541654109954834,
+                "cosine_similarity_residue": 0.45027369260787964
+            },
+            {
+                "residue1_index": 29,
+                "residue2_index": 30,
+                "residue1_type": "V",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.897461414337158,
+                "cosine_similarity_residue": 0.5439313650131226
+            },
+            {
+                "residue1_index": 144,
+                "residue2_index": 145,
+                "residue1_type": "T",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 4.258266448974609,
+                "cosine_similarity_residue": 0.6134086847305298
+            },
+            {
+                "residue1_index": 47,
+                "residue2_index": 48,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.567915439605713,
+                "cosine_similarity_residue": 0.6162190437316895
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "M",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.841372966766357,
+                "cosine_similarity_residue": 0.5212104320526123
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 37,
+                "residue2_index": 43,
+                "residue1_type": "E",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 5.0440874099731445,
+                "cosine_similarity_residue": 0.46036091446876526
+            },
+            {
+                "residue1_index": 36,
+                "residue2_index": 42,
+                "residue1_type": "I",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 4.781940460205078,
+                "cosine_similarity_residue": 0.5296892523765564
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 11,
+                "residue1_type": "K",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.749354362487793,
+                "cosine_similarity_residue": 0.5357170104980469
+            },
+            {
+                "residue1_index": 76,
+                "residue2_index": 82,
+                "residue1_type": "E",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 4.944066524505615,
+                "cosine_similarity_residue": 0.4476378560066223
+            },
+            {
+                "residue1_index": 77,
+                "residue2_index": 83,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.383123397827148,
+                "cosine_similarity_residue": 0.4375857710838318
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 166,
+                "residue1_type": "M",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.673233509063721,
+                "cosine_similarity_residue": 0.5262951850891113
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 166,
+                "residue1_type": "T",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.063358306884766,
+                "cosine_similarity_residue": 0.35259202122688293
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 165,
+                "residue1_type": "M",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.785918235778809,
+                "cosine_similarity_residue": 0.5394541025161743
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 164,
+                "residue1_type": "M",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.864548683166504,
+                "cosine_similarity_residue": 0.5216911435127258
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 165,
+                "residue1_type": "T",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.804898262023926,
+                "cosine_similarity_residue": 0.4743608832359314
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 9,
+                "residue2_index": 166,
+                "residue1_type": "V",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.994627475738525,
+                "cosine_similarity_residue": 0.4112154245376587
+            },
+            {
+                "residue1_index": 8,
+                "residue2_index": 165,
+                "residue1_type": "V",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 6.260382175445557,
+                "cosine_similarity_residue": 0.24497008323669434
+            },
+            {
+                "residue1_index": 10,
+                "residue2_index": 166,
+                "residue1_type": "G",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.9076385498046875,
+                "cosine_similarity_residue": 0.4332231283187866
+            },
+            {
+                "residue1_index": 9,
+                "residue2_index": 165,
+                "residue1_type": "V",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 5.615425109863281,
+                "cosine_similarity_residue": 0.32150620222091675
+            },
+            {
+                "residue1_index": 11,
+                "residue2_index": 166,
+                "residue1_type": "A",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.088871002197266,
+                "cosine_similarity_residue": 0.39840197563171387
+            }
+        ]
+    },
+    "1a0u": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "V",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 5.0465779304504395,
+                "cosine_similarity_residue": 0.49495455622673035
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "L",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 4.727710723876953,
+                "cosine_similarity_residue": 0.539897620677948
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "S",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 4.52450704574585,
+                "cosine_similarity_residue": 0.5626680254936218
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "P",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.2355055809020996,
+                "cosine_similarity_residue": 0.7765004634857178
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "A",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.550383567810059,
+                "cosine_similarity_residue": 0.621589183807373
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 141,
+                "residue1_type": "V",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.763533115386963,
+                "cosine_similarity_residue": 0.5287725925445557
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 140,
+                "residue1_type": "V",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.090003967285156,
+                "cosine_similarity_residue": 0.48337671160697937
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 141,
+                "residue1_type": "L",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.482228755950928,
+                "cosine_similarity_residue": 0.3897477388381958
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 139,
+                "residue1_type": "V",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.210063934326172,
+                "cosine_similarity_residue": 0.4514455795288086
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 140,
+                "residue1_type": "L",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 4.907217979431152,
+                "cosine_similarity_residue": 0.5298846960067749
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 46,
+                "residue2_index": 47,
+                "residue1_type": "F",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 5.446287631988525,
+                "cosine_similarity_residue": 0.4495774209499359
+            },
+            {
+                "residue1_index": 57,
+                "residue2_index": 58,
+                "residue1_type": "G",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.821869373321533,
+                "cosine_similarity_residue": 0.49040883779525757
+            },
+            {
+                "residue1_index": 60,
+                "residue2_index": 61,
+                "residue1_type": "K",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 3.9660472869873047,
+                "cosine_similarity_residue": 0.6913398504257202
+            },
+            {
+                "residue1_index": 50,
+                "residue2_index": 51,
+                "residue1_type": "H",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.5456671714782715,
+                "cosine_similarity_residue": 0.415668249130249
+            },
+            {
+                "residue1_index": 56,
+                "residue2_index": 57,
+                "residue1_type": "K",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.312972068786621,
+                "cosine_similarity_residue": 0.4321814775466919
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 4,
+                "residue2_index": 45,
+                "residue1_type": "P",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.054956912994385,
+                "cosine_similarity_residue": 0.4444984793663025
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 47,
+                "residue1_type": "P",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.860172271728516,
+                "cosine_similarity_residue": 0.5088800191879272
+            },
+            {
+                "residue1_index": 115,
+                "residue2_index": 141,
+                "residue1_type": "A",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.52508544921875,
+                "cosine_similarity_residue": 0.39688801765441895
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 45,
+                "residue1_type": "A",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.120543003082275,
+                "cosine_similarity_residue": 0.41218218207359314
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 49,
+                "residue1_type": "P",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 4.2764363288879395,
+                "cosine_similarity_residue": 0.5989378690719604
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 46,
+                "residue2_index": 47,
+                "residue1_type": "F",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 5.446287631988525,
+                "cosine_similarity_residue": 0.4495774209499359
+            },
+            {
+                "residue1_index": 57,
+                "residue2_index": 58,
+                "residue1_type": "G",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.821869373321533,
+                "cosine_similarity_residue": 0.49040883779525757
+            },
+            {
+                "residue1_index": 60,
+                "residue2_index": 61,
+                "residue1_type": "K",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 3.9660472869873047,
+                "cosine_similarity_residue": 0.6913398504257202
+            },
+            {
+                "residue1_index": 50,
+                "residue2_index": 51,
+                "residue1_type": "H",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.5456671714782715,
+                "cosine_similarity_residue": 0.415668249130249
+            },
+            {
+                "residue1_index": 56,
+                "residue2_index": 57,
+                "residue1_type": "K",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.312972068786621,
+                "cosine_similarity_residue": 0.4321814775466919
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 90,
+                "residue2_index": 99,
+                "residue1_type": "K",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 3.8207778930664062,
+                "cosine_similarity_residue": 0.7327123284339905
+            },
+            {
+                "residue1_index": 90,
+                "residue2_index": 100,
+                "residue1_type": "K",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 5.302369117736816,
+                "cosine_similarity_residue": 0.4822161793708801
+            },
+            {
+                "residue1_index": 35,
+                "residue2_index": 45,
+                "residue1_type": "S",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.543747901916504,
+                "cosine_similarity_residue": 0.41042235493659973
+            },
+            {
+                "residue1_index": 89,
+                "residue2_index": 99,
+                "residue1_type": "H",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.049106121063232,
+                "cosine_similarity_residue": 0.4890010356903076
+            },
+            {
+                "residue1_index": 89,
+                "residue2_index": 100,
+                "residue1_type": "H",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 5.097377300262451,
+                "cosine_similarity_residue": 0.4755258560180664
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 139,
+                "residue1_type": "V",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.210063934326172,
+                "cosine_similarity_residue": 0.4514455795288086
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 138,
+                "residue1_type": "V",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 5.1903300285339355,
+                "cosine_similarity_residue": 0.47204679250717163
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 137,
+                "residue1_type": "V",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.785208225250244,
+                "cosine_similarity_residue": 0.3824569284915924
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 138,
+                "residue1_type": "L",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 5.828375816345215,
+                "cosine_similarity_residue": 0.3477749228477478
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 136,
+                "residue1_type": "V",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 5.812107086181641,
+                "cosine_similarity_residue": 0.3735915720462799
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 141,
+                "residue1_type": "V",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.763533115386963,
+                "cosine_similarity_residue": 0.5287725925445557
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 141,
+                "residue1_type": "L",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.482228755950928,
+                "cosine_similarity_residue": 0.3897477388381958
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 140,
+                "residue1_type": "V",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.090003967285156,
+                "cosine_similarity_residue": 0.48337671160697937
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 141,
+                "residue1_type": "S",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.158079147338867,
+                "cosine_similarity_residue": 0.42403343319892883
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 140,
+                "residue1_type": "L",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 4.907217979431152,
+                "cosine_similarity_residue": 0.5298846960067749
+            }
+        ]
+    },
+    "1a3n": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "V",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 5.0465779304504395,
+                "cosine_similarity_residue": 0.49495455622673035
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "L",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 4.727710723876953,
+                "cosine_similarity_residue": 0.539897620677948
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "S",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 4.52450704574585,
+                "cosine_similarity_residue": 0.5626680254936218
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "P",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.2355055809020996,
+                "cosine_similarity_residue": 0.7765004634857178
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "A",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.550383567810059,
+                "cosine_similarity_residue": 0.621589183807373
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 141,
+                "residue1_type": "V",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.763533115386963,
+                "cosine_similarity_residue": 0.5287725925445557
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 140,
+                "residue1_type": "V",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.090003967285156,
+                "cosine_similarity_residue": 0.48337671160697937
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 141,
+                "residue1_type": "L",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.482228755950928,
+                "cosine_similarity_residue": 0.3897477388381958
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 139,
+                "residue1_type": "V",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.210063934326172,
+                "cosine_similarity_residue": 0.4514455795288086
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 140,
+                "residue1_type": "L",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 4.907217979431152,
+                "cosine_similarity_residue": 0.5298846960067749
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 46,
+                "residue2_index": 47,
+                "residue1_type": "F",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 5.446287631988525,
+                "cosine_similarity_residue": 0.4495774209499359
+            },
+            {
+                "residue1_index": 86,
+                "residue2_index": 87,
+                "residue1_type": "L",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.245298862457275,
+                "cosine_similarity_residue": 0.40542513132095337
+            },
+            {
+                "residue1_index": 17,
+                "residue2_index": 18,
+                "residue1_type": "V",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.359628200531006,
+                "cosine_similarity_residue": 0.4510834217071533
+            },
+            {
+                "residue1_index": 49,
+                "residue2_index": 50,
+                "residue1_type": "S",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.4288225173950195,
+                "cosine_similarity_residue": 0.5656797289848328
+            },
+            {
+                "residue1_index": 75,
+                "residue2_index": 76,
+                "residue1_type": "D",
+                "residue2_type": "M",
+                "euclidean_distance_residue": 5.917235374450684,
+                "cosine_similarity_residue": 0.36886081099510193
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 4,
+                "residue2_index": 45,
+                "residue1_type": "P",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.054956912994385,
+                "cosine_similarity_residue": 0.4444984793663025
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 47,
+                "residue1_type": "P",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.860172271728516,
+                "cosine_similarity_residue": 0.5088800191879272
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 45,
+                "residue1_type": "A",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.120543003082275,
+                "cosine_similarity_residue": 0.41218218207359314
+            },
+            {
+                "residue1_index": 115,
+                "residue2_index": 141,
+                "residue1_type": "A",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.52508544921875,
+                "cosine_similarity_residue": 0.39688801765441895
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 44,
+                "residue1_type": "P",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 4.596251010894775,
+                "cosine_similarity_residue": 0.5944133400917053
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 46,
+                "residue2_index": 47,
+                "residue1_type": "F",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 5.446287631988525,
+                "cosine_similarity_residue": 0.4495774209499359
+            },
+            {
+                "residue1_index": 86,
+                "residue2_index": 87,
+                "residue1_type": "L",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.245298862457275,
+                "cosine_similarity_residue": 0.40542513132095337
+            },
+            {
+                "residue1_index": 17,
+                "residue2_index": 18,
+                "residue1_type": "V",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.359628200531006,
+                "cosine_similarity_residue": 0.4510834217071533
+            },
+            {
+                "residue1_index": 49,
+                "residue2_index": 50,
+                "residue1_type": "S",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.4288225173950195,
+                "cosine_similarity_residue": 0.5656797289848328
+            },
+            {
+                "residue1_index": 75,
+                "residue2_index": 76,
+                "residue1_type": "D",
+                "residue2_type": "M",
+                "euclidean_distance_residue": 5.917235374450684,
+                "cosine_similarity_residue": 0.36886081099510193
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 90,
+                "residue2_index": 99,
+                "residue1_type": "K",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 3.8207778930664062,
+                "cosine_similarity_residue": 0.7327123284339905
+            },
+            {
+                "residue1_index": 90,
+                "residue2_index": 100,
+                "residue1_type": "K",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 5.302369117736816,
+                "cosine_similarity_residue": 0.4822161793708801
+            },
+            {
+                "residue1_index": 35,
+                "residue2_index": 45,
+                "residue1_type": "S",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.543747901916504,
+                "cosine_similarity_residue": 0.41042235493659973
+            },
+            {
+                "residue1_index": 89,
+                "residue2_index": 99,
+                "residue1_type": "H",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.049106121063232,
+                "cosine_similarity_residue": 0.4890010356903076
+            },
+            {
+                "residue1_index": 89,
+                "residue2_index": 100,
+                "residue1_type": "H",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 5.097377300262451,
+                "cosine_similarity_residue": 0.4755258560180664
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 138,
+                "residue1_type": "V",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 5.1903300285339355,
+                "cosine_similarity_residue": 0.47204679250717163
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 137,
+                "residue1_type": "V",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.785208225250244,
+                "cosine_similarity_residue": 0.3824569284915924
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 138,
+                "residue1_type": "L",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 5.828375816345215,
+                "cosine_similarity_residue": 0.3477749228477478
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 136,
+                "residue1_type": "V",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 5.812107086181641,
+                "cosine_similarity_residue": 0.3735915720462799
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 137,
+                "residue1_type": "L",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 6.501129627227783,
+                "cosine_similarity_residue": 0.23411880433559418
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 141,
+                "residue1_type": "V",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.763533115386963,
+                "cosine_similarity_residue": 0.5287725925445557
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 141,
+                "residue1_type": "L",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.482228755950928,
+                "cosine_similarity_residue": 0.3897477388381958
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 140,
+                "residue1_type": "V",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.090003967285156,
+                "cosine_similarity_residue": 0.48337671160697937
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 141,
+                "residue1_type": "S",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.158079147338867,
+                "cosine_similarity_residue": 0.42403343319892883
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 140,
+                "residue1_type": "L",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 4.907217979431152,
+                "cosine_similarity_residue": 0.5298846960067749
+            }
+        ]
+    },
+    "1ald": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "P",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.517721652984619,
+                "cosine_similarity_residue": 0.46828693151474
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "Y",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.2715044021606445,
+                "cosine_similarity_residue": 0.592888355255127
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "Q",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 4.629757404327393,
+                "cosine_similarity_residue": 0.5701172351837158
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "Y",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 5.154409885406494,
+                "cosine_similarity_residue": 0.45270976424217224
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "P",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.482907295227051,
+                "cosine_similarity_residue": 0.38840121030807495
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 363,
+                "residue1_type": "P",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.7332844734191895,
+                "cosine_similarity_residue": 0.401686429977417
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 362,
+                "residue1_type": "P",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.7026801109313965,
+                "cosine_similarity_residue": 0.4128255546092987
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 363,
+                "residue1_type": "Y",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.137716770172119,
+                "cosine_similarity_residue": 0.29312923550605774
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 361,
+                "residue1_type": "P",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.705761432647705,
+                "cosine_similarity_residue": 0.4223480522632599
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 362,
+                "residue1_type": "Y",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.302651882171631,
+                "cosine_similarity_residue": 0.2564314305782318
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 273,
+                "residue2_index": 363,
+                "residue1_type": "G",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.20037841796875,
+                "cosine_similarity_residue": 0.3577701151371002
+            },
+            {
+                "residue1_index": 272,
+                "residue2_index": 363,
+                "residue1_type": "G",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.584323406219482,
+                "cosine_similarity_residue": 0.3405839800834656
+            },
+            {
+                "residue1_index": 360,
+                "residue2_index": 361,
+                "residue1_type": "N",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 3.78605055809021,
+                "cosine_similarity_residue": 0.6363735198974609
+            },
+            {
+                "residue1_index": 362,
+                "residue2_index": 363,
+                "residue1_type": "A",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 3.2748618125915527,
+                "cosine_similarity_residue": 0.6963294744491577
+            },
+            {
+                "residue1_index": 121,
+                "residue2_index": 122,
+                "residue1_type": "E",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.5381364822387695,
+                "cosine_similarity_residue": 0.43483060598373413
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 318,
+                "residue1_type": "P",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 6.127823352813721,
+                "cosine_similarity_residue": 0.3699381947517395
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 318,
+                "residue1_type": "Y",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 6.161446571350098,
+                "cosine_similarity_residue": 0.1251135617494583
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 316,
+                "residue1_type": "P",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 6.659543514251709,
+                "cosine_similarity_residue": 0.3097825348377228
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 319,
+                "residue1_type": "P",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 6.525175094604492,
+                "cosine_similarity_residue": 0.2662077844142914
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 316,
+                "residue1_type": "Y",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 6.336276531219482,
+                "cosine_similarity_residue": 0.17659614980220795
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 360,
+                "residue2_index": 361,
+                "residue1_type": "N",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 3.78605055809021,
+                "cosine_similarity_residue": 0.6363735198974609
+            },
+            {
+                "residue1_index": 362,
+                "residue2_index": 363,
+                "residue1_type": "A",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 3.2748618125915527,
+                "cosine_similarity_residue": 0.6963294744491577
+            },
+            {
+                "residue1_index": 121,
+                "residue2_index": 122,
+                "residue1_type": "E",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.5381364822387695,
+                "cosine_similarity_residue": 0.43483060598373413
+            },
+            {
+                "residue1_index": 117,
+                "residue2_index": 118,
+                "residue1_type": "G",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.77690315246582,
+                "cosine_similarity_residue": 0.5538685321807861
+            },
+            {
+                "residue1_index": 123,
+                "residue2_index": 124,
+                "residue1_type": "T",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 2.696822166442871,
+                "cosine_similarity_residue": 0.8526788949966431
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 143,
+                "residue2_index": 151,
+                "residue1_type": "D",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 6.088587284088135,
+                "cosine_similarity_residue": 0.34080174565315247
+            },
+            {
+                "residue1_index": 147,
+                "residue2_index": 155,
+                "residue1_type": "W",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 6.100081443786621,
+                "cosine_similarity_residue": 0.3005700409412384
+            },
+            {
+                "residue1_index": 145,
+                "residue2_index": 153,
+                "residue1_type": "A",
+                "residue2_type": "I",
+                "euclidean_distance_residue": 5.541578769683838,
+                "cosine_similarity_residue": 0.5549149513244629
+            },
+            {
+                "residue1_index": 144,
+                "residue2_index": 152,
+                "residue1_type": "F",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 4.6472859382629395,
+                "cosine_similarity_residue": 0.5495390892028809
+            },
+            {
+                "residue1_index": 146,
+                "residue2_index": 154,
+                "residue1_type": "K",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.939382076263428,
+                "cosine_similarity_residue": 0.5269108414649963
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 19,
+                "residue2_index": 363,
+                "residue1_type": "A",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.503250598907471,
+                "cosine_similarity_residue": 0.24632084369659424
+            },
+            {
+                "residue1_index": 22,
+                "residue2_index": 363,
+                "residue1_type": "I",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.734773635864258,
+                "cosine_similarity_residue": 0.27399128675460815
+            },
+            {
+                "residue1_index": 23,
+                "residue2_index": 363,
+                "residue1_type": "V",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.26227331161499,
+                "cosine_similarity_residue": 0.324088454246521
+            },
+            {
+                "residue1_index": 22,
+                "residue2_index": 362,
+                "residue1_type": "I",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.474782466888428,
+                "cosine_similarity_residue": 0.34698137640953064
+            },
+            {
+                "residue1_index": 23,
+                "residue2_index": 362,
+                "residue1_type": "V",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.286423683166504,
+                "cosine_similarity_residue": 0.325360506772995
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 363,
+                "residue1_type": "P",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.7332844734191895,
+                "cosine_similarity_residue": 0.401686429977417
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 363,
+                "residue1_type": "Y",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.137716770172119,
+                "cosine_similarity_residue": 0.29312923550605774
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 362,
+                "residue1_type": "P",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.7026801109313965,
+                "cosine_similarity_residue": 0.4128255546092987
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 362,
+                "residue1_type": "Y",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.302651882171631,
+                "cosine_similarity_residue": 0.2564314305782318
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 363,
+                "residue1_type": "Q",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 5.561924457550049,
+                "cosine_similarity_residue": 0.2668735980987549
+            }
+        ]
+    },
+    "1cle": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "A",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 1.9424166679382324,
+                "cosine_similarity_residue": 0.9560682773590088
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "P",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.139252185821533,
+                "cosine_similarity_residue": 0.7587851881980896
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "T",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.4139163494110107,
+                "cosine_similarity_residue": 0.8216482400894165
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "A",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 2.942087411880493,
+                "cosine_similarity_residue": 0.8652425408363342
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "K",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 2.787451982498169,
+                "cosine_similarity_residue": 0.8951380252838135
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 534,
+                "residue1_type": "A",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 3.391648292541504,
+                "cosine_similarity_residue": 0.8648671507835388
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 533,
+                "residue1_type": "A",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 3.2907254695892334,
+                "cosine_similarity_residue": 0.8753429055213928
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 534,
+                "residue1_type": "P",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 3.6456875801086426,
+                "cosine_similarity_residue": 0.8323965072631836
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 532,
+                "residue1_type": "A",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 3.2832067012786865,
+                "cosine_similarity_residue": 0.8765586614608765
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 533,
+                "residue1_type": "P",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 3.5787353515625,
+                "cosine_similarity_residue": 0.8436206579208374
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 389,
+                "residue2_index": 390,
+                "residue1_type": "S",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 4.892645835876465,
+                "cosine_similarity_residue": 0.5217558145523071
+            },
+            {
+                "residue1_index": 110,
+                "residue2_index": 197,
+                "residue1_type": "A",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.641682147979736,
+                "cosine_similarity_residue": 0.4445095658302307
+            },
+            {
+                "residue1_index": 291,
+                "residue2_index": 292,
+                "residue1_type": "N",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 2.9312784671783447,
+                "cosine_similarity_residue": 0.8457250595092773
+            },
+            {
+                "residue1_index": 70,
+                "residue2_index": 71,
+                "residue1_type": "E",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 1.3398915529251099,
+                "cosine_similarity_residue": 0.9730594754219055
+            },
+            {
+                "residue1_index": 191,
+                "residue2_index": 192,
+                "residue1_type": "D",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 5.349643707275391,
+                "cosine_similarity_residue": 0.47256556153297424
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 372,
+                "residue1_type": "A",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.394078254699707,
+                "cosine_similarity_residue": 0.7598174810409546
+            },
+            {
+                "residue1_index": 9,
+                "residue2_index": 356,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.459339618682861,
+                "cosine_similarity_residue": 0.7229977250099182
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 371,
+                "residue1_type": "A",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.439405918121338,
+                "cosine_similarity_residue": 0.7487969398498535
+            },
+            {
+                "residue1_index": 50,
+                "residue2_index": 356,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.04315185546875,
+                "cosine_similarity_residue": 0.7609155774116516
+            },
+            {
+                "residue1_index": 50,
+                "residue2_index": 372,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.763493537902832,
+                "cosine_similarity_residue": 0.7912437319755554
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 389,
+                "residue2_index": 390,
+                "residue1_type": "S",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 4.892645835876465,
+                "cosine_similarity_residue": 0.5217558145523071
+            },
+            {
+                "residue1_index": 291,
+                "residue2_index": 292,
+                "residue1_type": "N",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 2.9312784671783447,
+                "cosine_similarity_residue": 0.8457250595092773
+            },
+            {
+                "residue1_index": 70,
+                "residue2_index": 71,
+                "residue1_type": "E",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 1.3398915529251099,
+                "cosine_similarity_residue": 0.9730594754219055
+            },
+            {
+                "residue1_index": 191,
+                "residue2_index": 192,
+                "residue1_type": "D",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 5.349643707275391,
+                "cosine_similarity_residue": 0.47256556153297424
+            },
+            {
+                "residue1_index": 459,
+                "residue2_index": 460,
+                "residue1_type": "L",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 2.4166815280914307,
+                "cosine_similarity_residue": 0.9233682155609131
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 148,
+                "residue2_index": 157,
+                "residue1_type": "P",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 6.331593036651611,
+                "cosine_similarity_residue": 0.2655785083770752
+            },
+            {
+                "residue1_index": 147,
+                "residue2_index": 157,
+                "residue1_type": "K",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.804413318634033,
+                "cosine_similarity_residue": 0.271231085062027
+            },
+            {
+                "residue1_index": 146,
+                "residue2_index": 156,
+                "residue1_type": "G",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 6.47298526763916,
+                "cosine_similarity_residue": 0.30539563298225403
+            },
+            {
+                "residue1_index": 150,
+                "residue2_index": 160,
+                "residue1_type": "I",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 5.283493995666504,
+                "cosine_similarity_residue": 0.4023924767971039
+            },
+            {
+                "residue1_index": 113,
+                "residue2_index": 123,
+                "residue1_type": "N",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.7286763191223145,
+                "cosine_similarity_residue": 0.3508911430835724
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 32,
+                "residue2_index": 534,
+                "residue1_type": "P",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 6.058300495147705,
+                "cosine_similarity_residue": 0.4793040156364441
+            },
+            {
+                "residue1_index": 33,
+                "residue2_index": 534,
+                "residue1_type": "V",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 5.67900276184082,
+                "cosine_similarity_residue": 0.5456750988960266
+            },
+            {
+                "residue1_index": 35,
+                "residue2_index": 534,
+                "residue1_type": "N",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.516722679138184,
+                "cosine_similarity_residue": 0.7321802973747253
+            },
+            {
+                "residue1_index": 36,
+                "residue2_index": 534,
+                "residue1_type": "L",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 5.823357582092285,
+                "cosine_similarity_residue": 0.5016446709632874
+            },
+            {
+                "residue1_index": 37,
+                "residue2_index": 534,
+                "residue1_type": "R",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 5.807316780090332,
+                "cosine_similarity_residue": 0.5339419841766357
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 534,
+                "residue1_type": "A",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 3.391648292541504,
+                "cosine_similarity_residue": 0.8648671507835388
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 533,
+                "residue1_type": "A",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 3.2907254695892334,
+                "cosine_similarity_residue": 0.8753429055213928
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 534,
+                "residue1_type": "P",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 3.6456875801086426,
+                "cosine_similarity_residue": 0.8323965072631836
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 532,
+                "residue1_type": "A",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 3.2832067012786865,
+                "cosine_similarity_residue": 0.8765586614608765
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 533,
+                "residue1_type": "P",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 3.5787353515625,
+                "cosine_similarity_residue": 0.8436206579208374
+            }
+        ]
+    },
+    "1f34": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "I",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 1.8432811498641968,
+                "cosine_similarity_residue": 0.9577958583831787
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "G",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 1.4081590175628662,
+                "cosine_similarity_residue": 0.9746280908584595
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "D",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 1.974556565284729,
+                "cosine_similarity_residue": 0.9474625587463379
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "E",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 2.0872364044189453,
+                "cosine_similarity_residue": 0.9389352798461914
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "P",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 2.3198978900909424,
+                "cosine_similarity_residue": 0.9290492534637451
+            }
+        ],
+        "far_in_1d": [],
+        "close_in_3d": [
+            {
+                "residue1_index": 22,
+                "residue2_index": 23,
+                "residue1_type": "T",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 2.375304937362671,
+                "cosine_similarity_residue": 0.9125722646713257
+            },
+            {
+                "residue1_index": 14,
+                "residue2_index": 15,
+                "residue1_type": "Y",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 2.1074161529541016,
+                "cosine_similarity_residue": 0.9382430911064148
+            },
+            {
+                "residue1_index": 25,
+                "residue2_index": 26,
+                "residue1_type": "Q",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 2.579813003540039,
+                "cosine_similarity_residue": 0.9045236110687256
+            }
+        ],
+        "far_in_3d": [],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 22,
+                "residue2_index": 23,
+                "residue1_type": "T",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 2.375304937362671,
+                "cosine_similarity_residue": 0.9125722646713257
+            },
+            {
+                "residue1_index": 14,
+                "residue2_index": 15,
+                "residue1_type": "Y",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 2.1074161529541016,
+                "cosine_similarity_residue": 0.9382430911064148
+            },
+            {
+                "residue1_index": 25,
+                "residue2_index": 26,
+                "residue1_type": "Q",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 2.579813003540039,
+                "cosine_similarity_residue": 0.9045236110687256
+            },
+            {
+                "residue1_index": 35,
+                "residue2_index": 36,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.067141056060791,
+                "cosine_similarity_residue": 0.9274216890335083
+            }
+        ],
+        "close_in_1d_far_in_3d": [],
+        "far_in_1d_close_in_3d": [],
+        "far_in_1d_far_in_3d": []
+    },
+    "1psa": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "I",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.7681140899658203,
+                "cosine_similarity_residue": 0.7817798852920532
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "G",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 2.6760520935058594,
+                "cosine_similarity_residue": 0.8643603920936584
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "D",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 3.4797041416168213,
+                "cosine_similarity_residue": 0.7605111598968506
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "E",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.722146511077881,
+                "cosine_similarity_residue": 0.7180320620536804
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "P",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.4236650466918945,
+                "cosine_similarity_residue": 0.6231579184532166
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 326,
+                "residue1_type": "I",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.620270729064941,
+                "cosine_similarity_residue": 0.6659195423126221
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 325,
+                "residue1_type": "I",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.790062427520752,
+                "cosine_similarity_residue": 0.6219260096549988
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 326,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.7600300312042236,
+                "cosine_similarity_residue": 0.7272463440895081
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 22,
+                "residue2_index": 23,
+                "residue1_type": "T",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 5.025990009307861,
+                "cosine_similarity_residue": 0.4846080541610718
+            },
+            {
+                "residue1_index": 245,
+                "residue2_index": 246,
+                "residue1_type": "M",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.031257629394531,
+                "cosine_similarity_residue": 0.6267484426498413
+            },
+            {
+                "residue1_index": 188,
+                "residue2_index": 189,
+                "residue1_type": "G",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 4.0288543701171875,
+                "cosine_similarity_residue": 0.6274974942207336
+            },
+            {
+                "residue1_index": 239,
+                "residue2_index": 240,
+                "residue1_type": "E",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 3.7710814476013184,
+                "cosine_similarity_residue": 0.6880864500999451
+            },
+            {
+                "residue1_index": 242,
+                "residue2_index": 243,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.292486667633057,
+                "cosine_similarity_residue": 0.6341556310653687
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 62,
+                "residue2_index": 201,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.762137413024902,
+                "cosine_similarity_residue": 0.5961949229240417
+            },
+            {
+                "residue1_index": 59,
+                "residue2_index": 201,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.538477897644043,
+                "cosine_similarity_residue": 0.6503083109855652
+            },
+            {
+                "residue1_index": 62,
+                "residue2_index": 202,
+                "residue1_type": "S",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 4.791048049926758,
+                "cosine_similarity_residue": 0.5856438875198364
+            },
+            {
+                "residue1_index": 60,
+                "residue2_index": 201,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.118016719818115,
+                "cosine_similarity_residue": 0.526435911655426
+            },
+            {
+                "residue1_index": 62,
+                "residue2_index": 200,
+                "residue1_type": "S",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 5.04365873336792,
+                "cosine_similarity_residue": 0.5129963159561157
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 22,
+                "residue2_index": 23,
+                "residue1_type": "T",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 5.025990009307861,
+                "cosine_similarity_residue": 0.4846080541610718
+            },
+            {
+                "residue1_index": 245,
+                "residue2_index": 246,
+                "residue1_type": "M",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.031257629394531,
+                "cosine_similarity_residue": 0.6267484426498413
+            },
+            {
+                "residue1_index": 188,
+                "residue2_index": 189,
+                "residue1_type": "G",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 4.0288543701171875,
+                "cosine_similarity_residue": 0.6274974942207336
+            },
+            {
+                "residue1_index": 239,
+                "residue2_index": 240,
+                "residue1_type": "E",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 3.7710814476013184,
+                "cosine_similarity_residue": 0.6880864500999451
+            },
+            {
+                "residue1_index": 242,
+                "residue2_index": 243,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.292486667633057,
+                "cosine_similarity_residue": 0.6341556310653687
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 149,
+                "residue2_index": 157,
+                "residue1_type": "D",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 4.39925479888916,
+                "cosine_similarity_residue": 0.5824486017227173
+            },
+            {
+                "residue1_index": 68,
+                "residue2_index": 76,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.492823600769043,
+                "cosine_similarity_residue": 0.5946201682090759
+            },
+            {
+                "residue1_index": 150,
+                "residue2_index": 158,
+                "residue1_type": "L",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.856940746307373,
+                "cosine_similarity_residue": 0.4752204716205597
+            },
+            {
+                "residue1_index": 14,
+                "residue2_index": 22,
+                "residue1_type": "Y",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.751633167266846,
+                "cosine_similarity_residue": 0.30914467573165894
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 326,
+                "residue1_type": "I",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.620270729064941,
+                "cosine_similarity_residue": 0.6659195423126221
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 325,
+                "residue1_type": "I",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.790062427520752,
+                "cosine_similarity_residue": 0.6219260096549988
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 326,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.7600300312042236,
+                "cosine_similarity_residue": 0.7272463440895081
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 7,
+                "residue2_index": 319,
+                "residue1_type": "E",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 4.335710048675537,
+                "cosine_similarity_residue": 0.6309230923652649
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 317,
+                "residue1_type": "P",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.6152238845825195,
+                "cosine_similarity_residue": 0.5910019874572754
+            },
+            {
+                "residue1_index": 7,
+                "residue2_index": 318,
+                "residue1_type": "E",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.618658542633057,
+                "cosine_similarity_residue": 0.570343017578125
+            },
+            {
+                "residue1_index": 6,
+                "residue2_index": 317,
+                "residue1_type": "L",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 5.521317005157471,
+                "cosine_similarity_residue": 0.4175645112991333
+            }
+        ]
+    },
+    "1ubq": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "M",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 3.8028159141540527,
+                "cosine_similarity_residue": 0.7275071144104004
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "Q",
+                "residue2_type": "I",
+                "euclidean_distance_residue": 4.054624557495117,
+                "cosine_similarity_residue": 0.6585347652435303
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "I",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 3.9766252040863037,
+                "cosine_similarity_residue": 0.6743630170822144
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "F",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.5120134353637695,
+                "cosine_similarity_residue": 0.6237777471542358
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "V",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.4926276206970215,
+                "cosine_similarity_residue": 0.4588196277618408
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 76,
+                "residue1_type": "M",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.375616073608398,
+                "cosine_similarity_residue": 0.6254492402076721
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 75,
+                "residue1_type": "M",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.737330436706543,
+                "cosine_similarity_residue": 0.5721685290336609
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 76,
+                "residue1_type": "Q",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.943376064300537,
+                "cosine_similarity_residue": 0.6361193656921387
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 74,
+                "residue1_type": "M",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.748738765716553,
+                "cosine_similarity_residue": 0.5517849326133728
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 75,
+                "residue1_type": "Q",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.488659381866455,
+                "cosine_similarity_residue": 0.5498560667037964
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 16,
+                "residue2_index": 17,
+                "residue1_type": "E",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 5.590868949890137,
+                "cosine_similarity_residue": 0.505474865436554
+            },
+            {
+                "residue1_index": 9,
+                "residue2_index": 10,
+                "residue1_type": "T",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.1757612228393555,
+                "cosine_similarity_residue": 0.6392852067947388
+            },
+            {
+                "residue1_index": 10,
+                "residue2_index": 11,
+                "residue1_type": "G",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 4.8156256675720215,
+                "cosine_similarity_residue": 0.5528022646903992
+            },
+            {
+                "residue1_index": 17,
+                "residue2_index": 18,
+                "residue1_type": "V",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 5.589999675750732,
+                "cosine_similarity_residue": 0.4809217154979706
+            },
+            {
+                "residue1_index": 21,
+                "residue2_index": 22,
+                "residue1_type": "D",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.6485514640808105,
+                "cosine_similarity_residue": 0.3967389464378357
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 76,
+                "residue1_type": "M",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.375616073608398,
+                "cosine_similarity_residue": 0.6254492402076721
+            },
+            {
+                "residue1_index": 63,
+                "residue2_index": 76,
+                "residue1_type": "K",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.6382884979248047,
+                "cosine_similarity_residue": 0.7009615898132324
+            },
+            {
+                "residue1_index": 62,
+                "residue2_index": 76,
+                "residue1_type": "Q",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.095348358154297,
+                "cosine_similarity_residue": 0.6234817504882812
+            },
+            {
+                "residue1_index": 20,
+                "residue2_index": 76,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.231022357940674,
+                "cosine_similarity_residue": 0.5954830646514893
+            },
+            {
+                "residue1_index": 18,
+                "residue2_index": 76,
+                "residue1_type": "E",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.201383590698242,
+                "cosine_similarity_residue": 0.6092662811279297
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 16,
+                "residue2_index": 17,
+                "residue1_type": "E",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 5.590868949890137,
+                "cosine_similarity_residue": 0.505474865436554
+            },
+            {
+                "residue1_index": 9,
+                "residue2_index": 10,
+                "residue1_type": "T",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.1757612228393555,
+                "cosine_similarity_residue": 0.6392852067947388
+            },
+            {
+                "residue1_index": 10,
+                "residue2_index": 11,
+                "residue1_type": "G",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 4.8156256675720215,
+                "cosine_similarity_residue": 0.5528022646903992
+            },
+            {
+                "residue1_index": 17,
+                "residue2_index": 18,
+                "residue1_type": "V",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 5.589999675750732,
+                "cosine_similarity_residue": 0.4809217154979706
+            },
+            {
+                "residue1_index": 21,
+                "residue2_index": 22,
+                "residue1_type": "D",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.6485514640808105,
+                "cosine_similarity_residue": 0.3967389464378357
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 40,
+                "residue2_index": 45,
+                "residue1_type": "Q",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 5.467008113861084,
+                "cosine_similarity_residue": 0.4706305265426636
+            },
+            {
+                "residue1_index": 11,
+                "residue2_index": 16,
+                "residue1_type": "K",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 4.775359630584717,
+                "cosine_similarity_residue": 0.5783829092979431
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 8,
+                "residue1_type": "I",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.734094142913818,
+                "cosine_similarity_residue": 0.5698204636573792
+            },
+            {
+                "residue1_index": 41,
+                "residue2_index": 46,
+                "residue1_type": "Q",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.410030364990234,
+                "cosine_similarity_residue": 0.4344293475151062
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 6,
+                "residue1_type": "M",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.150763511657715,
+                "cosine_similarity_residue": 0.5153536796569824
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 5,
+                "residue2_index": 71,
+                "residue1_type": "V",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.671604156494141,
+                "cosine_similarity_residue": 0.615727961063385
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 69,
+                "residue1_type": "I",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.631820201873779,
+                "cosine_similarity_residue": 0.6455610990524292
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 67,
+                "residue1_type": "M",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 6.3843793869018555,
+                "cosine_similarity_residue": 0.33781886100769043
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 70,
+                "residue1_type": "F",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.389453887939453,
+                "cosine_similarity_residue": 0.6533844470977783
+            },
+            {
+                "residue1_index": 7,
+                "residue2_index": 73,
+                "residue1_type": "T",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.210146427154541,
+                "cosine_similarity_residue": 0.6617296934127808
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 76,
+                "residue1_type": "M",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.375616073608398,
+                "cosine_similarity_residue": 0.6254492402076721
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 75,
+                "residue1_type": "M",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.737330436706543,
+                "cosine_similarity_residue": 0.5721685290336609
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 76,
+                "residue1_type": "Q",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.943376064300537,
+                "cosine_similarity_residue": 0.6361193656921387
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 75,
+                "residue1_type": "Q",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.488659381866455,
+                "cosine_similarity_residue": 0.5498560667037964
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 74,
+                "residue1_type": "M",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 4.748738765716553,
+                "cosine_similarity_residue": 0.5517849326133728
+            }
+        ]
+    },
+    "1ud2": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 2.2734568119049072,
+                "cosine_similarity_residue": 0.9347502589225769
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "G",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.563765048980713,
+                "cosine_similarity_residue": 0.698388397693634
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "L",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.059776306152344,
+                "cosine_similarity_residue": 0.7272067666053772
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "N",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.8618221282958984,
+                "cosine_similarity_residue": 0.7402560114860535
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "G",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.808244228363037,
+                "cosine_similarity_residue": 0.5643924474716187
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 480,
+                "residue1_type": "D",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.6298112869262695,
+                "cosine_similarity_residue": 0.7022090554237366
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 479,
+                "residue1_type": "D",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.645611763000488,
+                "cosine_similarity_residue": 0.6964688301086426
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 480,
+                "residue1_type": "G",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.293259620666504,
+                "cosine_similarity_residue": 0.7346611618995667
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 478,
+                "residue1_type": "D",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 5.825581073760986,
+                "cosine_similarity_residue": 0.4979526996612549
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 479,
+                "residue1_type": "G",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.338207244873047,
+                "cosine_similarity_residue": 0.7254307866096497
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 184,
+                "residue2_index": 185,
+                "residue1_type": "W",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 3.1862528324127197,
+                "cosine_similarity_residue": 0.8331846594810486
+            },
+            {
+                "residue1_index": 368,
+                "residue2_index": 376,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 5.167290210723877,
+                "cosine_similarity_residue": 0.5410692691802979
+            },
+            {
+                "residue1_index": 439,
+                "residue2_index": 463,
+                "residue1_type": "R",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.176198482513428,
+                "cosine_similarity_residue": 0.5445587038993835
+            },
+            {
+                "residue1_index": 412,
+                "residue2_index": 420,
+                "residue1_type": "G",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.036478519439697,
+                "cosine_similarity_residue": 0.7026432752609253
+            },
+            {
+                "residue1_index": 430,
+                "residue2_index": 471,
+                "residue1_type": "G",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.6072957515716553,
+                "cosine_similarity_residue": 0.7900558114051819
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 133,
+                "residue2_index": 461,
+                "residue1_type": "Y",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.312923908233643,
+                "cosine_similarity_residue": 0.7202417254447937
+            },
+            {
+                "residue1_index": 134,
+                "residue2_index": 461,
+                "residue1_type": "T",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.188266277313232,
+                "cosine_similarity_residue": 0.7513911724090576
+            },
+            {
+                "residue1_index": 133,
+                "residue2_index": 443,
+                "residue1_type": "Y",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.473060131072998,
+                "cosine_similarity_residue": 0.6543059945106506
+            },
+            {
+                "residue1_index": 168,
+                "residue2_index": 461,
+                "residue1_type": "R",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.0903191566467285,
+                "cosine_similarity_residue": 0.7507055997848511
+            },
+            {
+                "residue1_index": 114,
+                "residue2_index": 461,
+                "residue1_type": "A",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.2948479652404785,
+                "cosine_similarity_residue": 0.7265734672546387
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 184,
+                "residue2_index": 185,
+                "residue1_type": "W",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 3.1862528324127197,
+                "cosine_similarity_residue": 0.8331846594810486
+            },
+            {
+                "residue1_index": 228,
+                "residue2_index": 229,
+                "residue1_type": "Y",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 5.624009609222412,
+                "cosine_similarity_residue": 0.41495946049690247
+            },
+            {
+                "residue1_index": 130,
+                "residue2_index": 131,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.339174747467041,
+                "cosine_similarity_residue": 0.8341248035430908
+            },
+            {
+                "residue1_index": 65,
+                "residue2_index": 66,
+                "residue1_type": "G",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 5.709397792816162,
+                "cosine_similarity_residue": 0.3881550431251526
+            },
+            {
+                "residue1_index": 171,
+                "residue2_index": 172,
+                "residue1_type": "E",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 3.9405267238616943,
+                "cosine_similarity_residue": 0.6976627707481384
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 404,
+                "residue2_index": 414,
+                "residue1_type": "D",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 4.858590126037598,
+                "cosine_similarity_residue": 0.6155825257301331
+            },
+            {
+                "residue1_index": 417,
+                "residue2_index": 427,
+                "residue1_type": "P",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 5.261373043060303,
+                "cosine_similarity_residue": 0.49472784996032715
+            },
+            {
+                "residue1_index": 94,
+                "residue2_index": 104,
+                "residue1_type": "D",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 5.038351535797119,
+                "cosine_similarity_residue": 0.5391294360160828
+            },
+            {
+                "residue1_index": 418,
+                "residue2_index": 428,
+                "residue1_type": "N",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.632442951202393,
+                "cosine_similarity_residue": 0.5895636081695557
+            },
+            {
+                "residue1_index": 417,
+                "residue2_index": 428,
+                "residue1_type": "P",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.835179805755615,
+                "cosine_similarity_residue": 0.583810031414032
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 480,
+                "residue1_type": "D",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.6298112869262695,
+                "cosine_similarity_residue": 0.7022090554237366
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 480,
+                "residue1_type": "G",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.293259620666504,
+                "cosine_similarity_residue": 0.7346611618995667
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 479,
+                "residue1_type": "D",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.645611763000488,
+                "cosine_similarity_residue": 0.6964688301086426
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 480,
+                "residue1_type": "L",
+                "residue2_type": "Q",
+                "euclidean_distance_residue": 4.2255096435546875,
+                "cosine_similarity_residue": 0.6961411833763123
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 479,
+                "residue1_type": "G",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.338207244873047,
+                "cosine_similarity_residue": 0.7254307866096497
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 473,
+                "residue1_type": "D",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 5.175419330596924,
+                "cosine_similarity_residue": 0.6203405261039734
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 472,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.902865886688232,
+                "cosine_similarity_residue": 0.6652689576148987
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 471,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.0219950675964355,
+                "cosine_similarity_residue": 0.653948187828064
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 472,
+                "residue1_type": "G",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.4624762535095215,
+                "cosine_similarity_residue": 0.713280200958252
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 470,
+                "residue1_type": "D",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.939943790435791,
+                "cosine_similarity_residue": 0.6646881699562073
+            }
+        ]
+    },
+    "2d9e": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.6474249362945557,
+                "cosine_similarity_residue": 0.9622620344161987
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.1269259452819824,
+                "cosine_similarity_residue": 0.9819777011871338
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 1.9388680458068848,
+                "cosine_similarity_residue": 0.9452579617500305
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.220280647277832,
+                "cosine_similarity_residue": 0.9109973907470703
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.8132030963897705,
+                "cosine_similarity_residue": 0.9298139810562134
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 121,
+                "residue1_type": "G",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.4559340476989746,
+                "cosine_similarity_residue": 0.8229748606681824
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 120,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.1193454265594482,
+                "cosine_similarity_residue": 0.8576579689979553
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 121,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.2943637371063232,
+                "cosine_similarity_residue": 0.8363465666770935
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 119,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.158076047897339,
+                "cosine_similarity_residue": 0.8526772856712341
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 120,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.8858015537261963,
+                "cosine_similarity_residue": 0.8761548399925232
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 100,
+                "residue2_index": 101,
+                "residue1_type": "G",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 2.574699878692627,
+                "cosine_similarity_residue": 0.8223953247070312
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 1.9388680458068848,
+                "cosine_similarity_residue": 0.9452579617500305
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.220280647277832,
+                "cosine_similarity_residue": 0.9109973907470703
+            },
+            {
+                "residue1_index": 6,
+                "residue2_index": 7,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 2.3544352054595947,
+                "cosine_similarity_residue": 0.8817976117134094
+            },
+            {
+                "residue1_index": 24,
+                "residue2_index": 25,
+                "residue1_type": "T",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.412024974822998,
+                "cosine_similarity_residue": 0.6798911094665527
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 86,
+                "residue1_type": "G",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 5.033174991607666,
+                "cosine_similarity_residue": 0.582450807094574
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 86,
+                "residue1_type": "S",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.963598728179932,
+                "cosine_similarity_residue": 0.581047534942627
+            },
+            {
+                "residue1_index": 35,
+                "residue2_index": 117,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.7679808139801025,
+                "cosine_similarity_residue": 0.6872754693031311
+            },
+            {
+                "residue1_index": 36,
+                "residue2_index": 117,
+                "residue1_type": "E",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.8273324966430664,
+                "cosine_similarity_residue": 0.688711404800415
+            },
+            {
+                "residue1_index": 35,
+                "residue2_index": 120,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.8937783241271973,
+                "cosine_similarity_residue": 0.7094391584396362
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 100,
+                "residue2_index": 101,
+                "residue1_type": "G",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 2.574699878692627,
+                "cosine_similarity_residue": 0.8223953247070312
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 1.9388680458068848,
+                "cosine_similarity_residue": 0.9452579617500305
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.220280647277832,
+                "cosine_similarity_residue": 0.9109973907470703
+            },
+            {
+                "residue1_index": 6,
+                "residue2_index": 7,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 2.3544352054595947,
+                "cosine_similarity_residue": 0.8817976117134094
+            },
+            {
+                "residue1_index": 24,
+                "residue2_index": 25,
+                "residue1_type": "T",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.412024974822998,
+                "cosine_similarity_residue": 0.6798911094665527
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 42,
+                "residue2_index": 50,
+                "residue1_type": "D",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 4.200677871704102,
+                "cosine_similarity_residue": 0.576824963092804
+            },
+            {
+                "residue1_index": 42,
+                "residue2_index": 51,
+                "residue1_type": "D",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 3.8766770362854004,
+                "cosine_similarity_residue": 0.6313546299934387
+            },
+            {
+                "residue1_index": 24,
+                "residue2_index": 34,
+                "residue1_type": "T",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 3.518996000289917,
+                "cosine_similarity_residue": 0.6715231537818909
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 11,
+                "residue1_type": "G",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 3.7540342807769775,
+                "cosine_similarity_residue": 0.7841022610664368
+            },
+            {
+                "residue1_index": 25,
+                "residue2_index": 35,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.176480293273926,
+                "cosine_similarity_residue": 0.7098370790481567
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 5,
+                "residue2_index": 121,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 2.9814796447753906,
+                "cosine_similarity_residue": 0.8376127481460571
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 118,
+                "residue1_type": "S",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.229856252670288,
+                "cosine_similarity_residue": 0.8419060111045837
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 117,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.4227046966552734,
+                "cosine_similarity_residue": 0.8193274736404419
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 118,
+                "residue1_type": "S",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.046635150909424,
+                "cosine_similarity_residue": 0.8580948710441589
+            },
+            {
+                "residue1_index": 6,
+                "residue2_index": 121,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 2.9211480617523193,
+                "cosine_similarity_residue": 0.8439558148384094
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 121,
+                "residue1_type": "G",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.4559340476989746,
+                "cosine_similarity_residue": 0.8229748606681824
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 120,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.1193454265594482,
+                "cosine_similarity_residue": 0.8576579689979553
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 121,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.2943637371063232,
+                "cosine_similarity_residue": 0.8363465666770935
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 119,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.158076047897339,
+                "cosine_similarity_residue": 0.8526772856712341
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 120,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.8858015537261963,
+                "cosine_similarity_residue": 0.8761548399925232
+            }
+        ]
+    },
+    "2gf1": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "G",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 2.3375723361968994,
+                "cosine_similarity_residue": 0.8996274471282959
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "P",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 2.5329058170318604,
+                "cosine_similarity_residue": 0.8653366565704346
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "E",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 2.2865166664123535,
+                "cosine_similarity_residue": 0.8847948908805847
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "T",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 2.8867108821868896,
+                "cosine_similarity_residue": 0.8144610524177551
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "L",
+                "residue2_type": "C",
+                "euclidean_distance_residue": 3.306323528289795,
+                "cosine_similarity_residue": 0.7541741728782654
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 70,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.620016098022461,
+                "cosine_similarity_residue": 0.7638585567474365
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 69,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.380885124206543,
+                "cosine_similarity_residue": 0.7922837734222412
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 70,
+                "residue1_type": "P",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.4505772590637207,
+                "cosine_similarity_residue": 0.768835186958313
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 68,
+                "residue1_type": "G",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 3.737971782684326,
+                "cosine_similarity_residue": 0.7513078451156616
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 69,
+                "residue1_type": "P",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.1840929985046387,
+                "cosine_similarity_residue": 0.8007981181144714
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 27,
+                "residue2_index": 42,
+                "residue1_type": "K",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.9218099117279053,
+                "cosine_similarity_residue": 0.671573281288147
+            },
+            {
+                "residue1_index": 61,
+                "residue2_index": 62,
+                "residue1_type": "C",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.8754396438598633,
+                "cosine_similarity_residue": 0.6328837275505066
+            },
+            {
+                "residue1_index": 27,
+                "residue2_index": 28,
+                "residue1_type": "K",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.304788827896118,
+                "cosine_similarity_residue": 0.7587423324584961
+            },
+            {
+                "residue1_index": 29,
+                "residue2_index": 30,
+                "residue1_type": "T",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.861145257949829,
+                "cosine_similarity_residue": 0.6937240958213806
+            },
+            {
+                "residue1_index": 51,
+                "residue2_index": 52,
+                "residue1_type": "S",
+                "residue2_type": "C",
+                "euclidean_distance_residue": 3.6554818153381348,
+                "cosine_similarity_residue": 0.7090966701507568
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 2,
+                "residue2_index": 33,
+                "residue1_type": "P",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.624709129333496,
+                "cosine_similarity_residue": 0.7272322177886963
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 33,
+                "residue1_type": "E",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.696789264678955,
+                "cosine_similarity_residue": 0.7075203061103821
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 32,
+                "residue1_type": "P",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.109432220458984,
+                "cosine_similarity_residue": 0.6633628010749817
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 33,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.995878219604492,
+                "cosine_similarity_residue": 0.697382390499115
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 32,
+                "residue1_type": "E",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.603243589401245,
+                "cosine_similarity_residue": 0.7344833612442017
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 61,
+                "residue2_index": 62,
+                "residue1_type": "C",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.8754396438598633,
+                "cosine_similarity_residue": 0.6328837275505066
+            },
+            {
+                "residue1_index": 27,
+                "residue2_index": 28,
+                "residue1_type": "K",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.304788827896118,
+                "cosine_similarity_residue": 0.7587423324584961
+            },
+            {
+                "residue1_index": 29,
+                "residue2_index": 30,
+                "residue1_type": "T",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.861145257949829,
+                "cosine_similarity_residue": 0.6937240958213806
+            },
+            {
+                "residue1_index": 51,
+                "residue2_index": 52,
+                "residue1_type": "S",
+                "residue2_type": "C",
+                "euclidean_distance_residue": 3.6554818153381348,
+                "cosine_similarity_residue": 0.7090966701507568
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "E",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 2.2865166664123535,
+                "cosine_similarity_residue": 0.8847948908805847
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 2,
+                "residue2_index": 7,
+                "residue1_type": "P",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.4838998317718506,
+                "cosine_similarity_residue": 0.7465934157371521
+            },
+            {
+                "residue1_index": 49,
+                "residue2_index": 54,
+                "residue1_type": "F",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 3.3796181678771973,
+                "cosine_similarity_residue": 0.7390261292457581
+            },
+            {
+                "residue1_index": 22,
+                "residue2_index": 27,
+                "residue1_type": "G",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 4.046506881713867,
+                "cosine_similarity_residue": 0.6475422978401184
+            },
+            {
+                "residue1_index": 65,
+                "residue2_index": 70,
+                "residue1_type": "K",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.453575611114502,
+                "cosine_similarity_residue": 0.7664002180099487
+            },
+            {
+                "residue1_index": 23,
+                "residue2_index": 28,
+                "residue1_type": "F",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.7935454845428467,
+                "cosine_similarity_residue": 0.67432701587677
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 70,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.620016098022461,
+                "cosine_similarity_residue": 0.7638585567474365
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 69,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.380885124206543,
+                "cosine_similarity_residue": 0.7922837734222412
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 70,
+                "residue1_type": "P",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.4505772590637207,
+                "cosine_similarity_residue": 0.768835186958313
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 70,
+                "residue1_type": "E",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 2.883943796157837,
+                "cosine_similarity_residue": 0.8357326984405518
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 69,
+                "residue1_type": "P",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.1840929985046387,
+                "cosine_similarity_residue": 0.8007981181144714
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 67,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.85931396484375,
+                "cosine_similarity_residue": 0.7327203154563904
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 68,
+                "residue1_type": "P",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 3.5019028186798096,
+                "cosine_similarity_residue": 0.76587975025177
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 67,
+                "residue1_type": "P",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.358675003051758,
+                "cosine_similarity_residue": 0.7823593616485596
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 66,
+                "residue1_type": "G",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.447850227355957,
+                "cosine_similarity_residue": 0.7758121490478516
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 68,
+                "residue1_type": "E",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 3.3643815517425537,
+                "cosine_similarity_residue": 0.7796435356140137
+            }
+        ]
+    },
+    "2kup": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.6019163131713867,
+                "cosine_similarity_residue": 0.896155834197998
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.6843514442443848,
+                "cosine_similarity_residue": 0.957722544670105
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 2.2408111095428467,
+                "cosine_similarity_residue": 0.9275895953178406
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.284963369369507,
+                "cosine_similarity_residue": 0.924606204032898
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.0408790111541748,
+                "cosine_similarity_residue": 0.9843208193778992
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 146,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.157813549041748,
+                "cosine_similarity_residue": 0.8528291583061218
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 145,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.0835824012756348,
+                "cosine_similarity_residue": 0.8598906397819519
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 146,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.9419701099395752,
+                "cosine_similarity_residue": 0.9436496496200562
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 144,
+                "residue1_type": "G",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 3.2121567726135254,
+                "cosine_similarity_residue": 0.8527434468269348
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 145,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.0038814544677734,
+                "cosine_similarity_residue": 0.9400888681411743
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 31,
+                "residue2_index": 32,
+                "residue1_type": "V",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 2.63429594039917,
+                "cosine_similarity_residue": 0.8969449996948242
+            },
+            {
+                "residue1_index": 66,
+                "residue2_index": 67,
+                "residue1_type": "G",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 3.35998272895813,
+                "cosine_similarity_residue": 0.765815019607544
+            },
+            {
+                "residue1_index": 88,
+                "residue2_index": 89,
+                "residue1_type": "A",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 2.8733396530151367,
+                "cosine_similarity_residue": 0.8269756436347961
+            },
+            {
+                "residue1_index": 24,
+                "residue2_index": 25,
+                "residue1_type": "T",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 2.682805299758911,
+                "cosine_similarity_residue": 0.878862202167511
+            },
+            {
+                "residue1_index": 37,
+                "residue2_index": 38,
+                "residue1_type": "V",
+                "residue2_type": "M",
+                "euclidean_distance_residue": 2.7812094688415527,
+                "cosine_similarity_residue": 0.8644506931304932
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 11,
+                "residue2_index": 146,
+                "residue1_type": "D",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.5871331691741943,
+                "cosine_similarity_residue": 0.9002040028572083
+            },
+            {
+                "residue1_index": 8,
+                "residue2_index": 146,
+                "residue1_type": "L",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.6826961040496826,
+                "cosine_similarity_residue": 0.8969878554344177
+            },
+            {
+                "residue1_index": 9,
+                "residue2_index": 146,
+                "residue1_type": "N",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.6834051609039307,
+                "cosine_similarity_residue": 0.8941514492034912
+            },
+            {
+                "residue1_index": 7,
+                "residue2_index": 146,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.470621109008789,
+                "cosine_similarity_residue": 0.9140405058860779
+            },
+            {
+                "residue1_index": 10,
+                "residue2_index": 146,
+                "residue1_type": "R",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.78080153465271,
+                "cosine_similarity_residue": 0.8873113393783569
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 31,
+                "residue2_index": 32,
+                "residue1_type": "V",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 2.63429594039917,
+                "cosine_similarity_residue": 0.8969449996948242
+            },
+            {
+                "residue1_index": 66,
+                "residue2_index": 67,
+                "residue1_type": "G",
+                "residue2_type": "Y",
+                "euclidean_distance_residue": 3.35998272895813,
+                "cosine_similarity_residue": 0.765815019607544
+            },
+            {
+                "residue1_index": 88,
+                "residue2_index": 89,
+                "residue1_type": "A",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 2.8733396530151367,
+                "cosine_similarity_residue": 0.8269756436347961
+            },
+            {
+                "residue1_index": 24,
+                "residue2_index": 25,
+                "residue1_type": "T",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 2.682805299758911,
+                "cosine_similarity_residue": 0.878862202167511
+            },
+            {
+                "residue1_index": 37,
+                "residue2_index": 38,
+                "residue1_type": "V",
+                "residue2_type": "M",
+                "euclidean_distance_residue": 2.7812094688415527,
+                "cosine_similarity_residue": 0.8644506931304932
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 138,
+                "residue2_index": 146,
+                "residue1_type": "N",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.7475361824035645,
+                "cosine_similarity_residue": 0.8903441429138184
+            },
+            {
+                "residue1_index": 70,
+                "residue2_index": 78,
+                "residue1_type": "N",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 2.7848620414733887,
+                "cosine_similarity_residue": 0.8430741429328918
+            },
+            {
+                "residue1_index": 137,
+                "residue2_index": 145,
+                "residue1_type": "P",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.5098676681518555,
+                "cosine_similarity_residue": 0.9076465964317322
+            },
+            {
+                "residue1_index": 135,
+                "residue2_index": 143,
+                "residue1_type": "Q",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 2.9484400749206543,
+                "cosine_similarity_residue": 0.873344898223877
+            },
+            {
+                "residue1_index": 136,
+                "residue2_index": 144,
+                "residue1_type": "P",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 2.8791377544403076,
+                "cosine_similarity_residue": 0.8818976879119873
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 115,
+                "residue1_type": "G",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 3.451672315597534,
+                "cosine_similarity_residue": 0.8130869269371033
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 114,
+                "residue1_type": "G",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 3.3067164421081543,
+                "cosine_similarity_residue": 0.8312352299690247
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 115,
+                "residue1_type": "S",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 3.564319372177124,
+                "cosine_similarity_residue": 0.7941164970397949
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 113,
+                "residue1_type": "G",
+                "residue2_type": "M",
+                "euclidean_distance_residue": 3.0330727100372314,
+                "cosine_similarity_residue": 0.8633856177330017
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 114,
+                "residue1_type": "S",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 3.4022302627563477,
+                "cosine_similarity_residue": 0.815972089767456
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 146,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.157813549041748,
+                "cosine_similarity_residue": 0.8528291583061218
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 146,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.9419701099395752,
+                "cosine_similarity_residue": 0.9436496496200562
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 145,
+                "residue1_type": "G",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 3.0835824012756348,
+                "cosine_similarity_residue": 0.8598906397819519
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 146,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.460272192955017,
+                "cosine_similarity_residue": 0.9689280986785889
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 145,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.0038814544677734,
+                "cosine_similarity_residue": 0.9400888681411743
+            }
+        ]
+    },
+    "3pep": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "I",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 3.743427038192749,
+                "cosine_similarity_residue": 0.7846816182136536
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "G",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 2.655813455581665,
+                "cosine_similarity_residue": 0.8671085238456726
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "D",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 3.470308303833008,
+                "cosine_similarity_residue": 0.7629987597465515
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "E",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.7074034214019775,
+                "cosine_similarity_residue": 0.7215285897254944
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "P",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.411563873291016,
+                "cosine_similarity_residue": 0.6266177892684937
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 326,
+                "residue1_type": "I",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.594254016876221,
+                "cosine_similarity_residue": 0.6698839068412781
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 325,
+                "residue1_type": "I",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.747918605804443,
+                "cosine_similarity_residue": 0.6289758086204529
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 326,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.72301983833313,
+                "cosine_similarity_residue": 0.7338984608650208
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 324,
+                "residue1_type": "I",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 4.792594909667969,
+                "cosine_similarity_residue": 0.6375704407691956
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 325,
+                "residue1_type": "G",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.024526119232178,
+                "cosine_similarity_residue": 0.6602495312690735
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 22,
+                "residue2_index": 23,
+                "residue1_type": "T",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 5.028529644012451,
+                "cosine_similarity_residue": 0.4865223169326782
+            },
+            {
+                "residue1_index": 39,
+                "residue2_index": 40,
+                "residue1_type": "W",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.678054332733154,
+                "cosine_similarity_residue": 0.6166524291038513
+            },
+            {
+                "residue1_index": 175,
+                "residue2_index": 176,
+                "residue1_type": "Y",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.231818199157715,
+                "cosine_similarity_residue": 0.6439523100852966
+            },
+            {
+                "residue1_index": 229,
+                "residue2_index": 230,
+                "residue1_type": "A",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 2.944126844406128,
+                "cosine_similarity_residue": 0.8225525617599487
+            },
+            {
+                "residue1_index": 298,
+                "residue2_index": 299,
+                "residue1_type": "L",
+                "residue2_type": "W",
+                "euclidean_distance_residue": 4.092932224273682,
+                "cosine_similarity_residue": 0.6180412173271179
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 59,
+                "residue2_index": 201,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.523228645324707,
+                "cosine_similarity_residue": 0.6556702256202698
+            },
+            {
+                "residue1_index": 62,
+                "residue2_index": 201,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.742829322814941,
+                "cosine_similarity_residue": 0.6022065281867981
+            },
+            {
+                "residue1_index": 60,
+                "residue2_index": 201,
+                "residue1_type": "D",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.096023082733154,
+                "cosine_similarity_residue": 0.5342748761177063
+            },
+            {
+                "residue1_index": 59,
+                "residue2_index": 202,
+                "residue1_type": "D",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 3.7573647499084473,
+                "cosine_similarity_residue": 0.7596180438995361
+            },
+            {
+                "residue1_index": 62,
+                "residue2_index": 202,
+                "residue1_type": "S",
+                "residue2_type": "E",
+                "euclidean_distance_residue": 4.766010284423828,
+                "cosine_similarity_residue": 0.5928800106048584
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 22,
+                "residue2_index": 23,
+                "residue1_type": "T",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 5.028529644012451,
+                "cosine_similarity_residue": 0.4865223169326782
+            },
+            {
+                "residue1_index": 39,
+                "residue2_index": 40,
+                "residue1_type": "W",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.678054332733154,
+                "cosine_similarity_residue": 0.6166524291038513
+            },
+            {
+                "residue1_index": 175,
+                "residue2_index": 176,
+                "residue1_type": "Y",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 4.231818199157715,
+                "cosine_similarity_residue": 0.6439523100852966
+            },
+            {
+                "residue1_index": 229,
+                "residue2_index": 230,
+                "residue1_type": "A",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 2.944126844406128,
+                "cosine_similarity_residue": 0.8225525617599487
+            },
+            {
+                "residue1_index": 298,
+                "residue2_index": 299,
+                "residue1_type": "L",
+                "residue2_type": "W",
+                "euclidean_distance_residue": 4.092932224273682,
+                "cosine_similarity_residue": 0.6180412173271179
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 149,
+                "residue2_index": 157,
+                "residue1_type": "D",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 4.386926174163818,
+                "cosine_similarity_residue": 0.5875158905982971
+            },
+            {
+                "residue1_index": 150,
+                "residue2_index": 158,
+                "residue1_type": "L",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.847003936767578,
+                "cosine_similarity_residue": 0.47968655824661255
+            },
+            {
+                "residue1_index": 68,
+                "residue2_index": 76,
+                "residue1_type": "S",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.500945091247559,
+                "cosine_similarity_residue": 0.5951278209686279
+            },
+            {
+                "residue1_index": 149,
+                "residue2_index": 158,
+                "residue1_type": "D",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.4789252281188965,
+                "cosine_similarity_residue": 0.5680310130119324
+            },
+            {
+                "residue1_index": 12,
+                "residue2_index": 21,
+                "residue1_type": "T",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.796131610870361,
+                "cosine_similarity_residue": 0.27608615159988403
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 326,
+                "residue1_type": "I",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.594254016876221,
+                "cosine_similarity_residue": 0.6698839068412781
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 325,
+                "residue1_type": "I",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.747918605804443,
+                "cosine_similarity_residue": 0.6289758086204529
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 326,
+                "residue1_type": "G",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 3.72301983833313,
+                "cosine_similarity_residue": 0.7338984608650208
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 326,
+                "residue1_type": "D",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.046379089355469,
+                "cosine_similarity_residue": 0.6931825280189514
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 325,
+                "residue1_type": "G",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.024526119232178,
+                "cosine_similarity_residue": 0.6602495312690735
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 7,
+                "residue2_index": 319,
+                "residue1_type": "E",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 4.3175554275512695,
+                "cosine_similarity_residue": 0.6360528469085693
+            },
+            {
+                "residue1_index": 7,
+                "residue2_index": 318,
+                "residue1_type": "E",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 4.589022159576416,
+                "cosine_similarity_residue": 0.5778814554214478
+            },
+            {
+                "residue1_index": 10,
+                "residue2_index": 321,
+                "residue1_type": "L",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 5.072744846343994,
+                "cosine_similarity_residue": 0.42559269070625305
+            },
+            {
+                "residue1_index": 8,
+                "residue2_index": 319,
+                "residue1_type": "N",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.070976257324219,
+                "cosine_similarity_residue": 0.4855698347091675
+            },
+            {
+                "residue1_index": 6,
+                "residue2_index": 317,
+                "residue1_type": "L",
+                "residue2_type": "N",
+                "euclidean_distance_residue": 5.488424777984619,
+                "cosine_similarity_residue": 0.42676952481269836
+            }
+        ]
+    },
+    "6yw8": {
+        "close_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 2,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 1.4833680391311646,
+                "cosine_similarity_residue": 0.9618861675262451
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 3,
+                "residue1_type": "S",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 2.164440155029297,
+                "cosine_similarity_residue": 0.9146919846534729
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 4,
+                "residue1_type": "S",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 3.2220239639282227,
+                "cosine_similarity_residue": 0.7542238235473633
+            },
+            {
+                "residue1_index": 4,
+                "residue2_index": 5,
+                "residue1_type": "H",
+                "residue2_type": "P",
+                "euclidean_distance_residue": 3.335392713546753,
+                "cosine_similarity_residue": 0.7345832586288452
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 6,
+                "residue1_type": "P",
+                "residue2_type": "I",
+                "euclidean_distance_residue": 4.140294551849365,
+                "cosine_similarity_residue": 0.616897463798523
+            }
+        ],
+        "far_in_1d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 118,
+                "residue1_type": "S",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 3.9735803604125977,
+                "cosine_similarity_residue": 0.6978629231452942
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 117,
+                "residue1_type": "S",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.077744007110596,
+                "cosine_similarity_residue": 0.6721073389053345
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 118,
+                "residue1_type": "S",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 3.9968924522399902,
+                "cosine_similarity_residue": 0.6895350813865662
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 116,
+                "residue1_type": "S",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.31852388381958,
+                "cosine_similarity_residue": 0.6290946006774902
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 117,
+                "residue1_type": "S",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.14760684967041,
+                "cosine_similarity_residue": 0.6544482707977295
+            }
+        ],
+        "close_in_3d": [
+            {
+                "residue1_index": 41,
+                "residue2_index": 50,
+                "residue1_type": "E",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.632356643676758,
+                "cosine_similarity_residue": 0.40761619806289673
+            },
+            {
+                "residue1_index": 84,
+                "residue2_index": 105,
+                "residue1_type": "H",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 5.2014970779418945,
+                "cosine_similarity_residue": 0.4410173296928406
+            },
+            {
+                "residue1_index": 55,
+                "residue2_index": 56,
+                "residue1_type": "E",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.197251319885254,
+                "cosine_similarity_residue": 0.4692640006542206
+            },
+            {
+                "residue1_index": 9,
+                "residue2_index": 10,
+                "residue1_type": "R",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.721104145050049,
+                "cosine_similarity_residue": 0.5694624185562134
+            },
+            {
+                "residue1_index": 12,
+                "residue2_index": 13,
+                "residue1_type": "F",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 5.869986057281494,
+                "cosine_similarity_residue": 0.29538771510124207
+            }
+        ],
+        "far_in_3d": [
+            {
+                "residue1_index": 46,
+                "residue2_index": 75,
+                "residue1_type": "N",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 4.548157691955566,
+                "cosine_similarity_residue": 0.5045313239097595
+            },
+            {
+                "residue1_index": 46,
+                "residue2_index": 74,
+                "residue1_type": "N",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.215874671936035,
+                "cosine_similarity_residue": 0.4702536165714264
+            },
+            {
+                "residue1_index": 45,
+                "residue2_index": 74,
+                "residue1_type": "N",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 6.234743118286133,
+                "cosine_similarity_residue": 0.27661198377609253
+            },
+            {
+                "residue1_index": 45,
+                "residue2_index": 75,
+                "residue1_type": "N",
+                "residue2_type": "H",
+                "euclidean_distance_residue": 5.08553409576416,
+                "cosine_similarity_residue": 0.42444154620170593
+            },
+            {
+                "residue1_index": 46,
+                "residue2_index": 72,
+                "residue1_type": "N",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 4.565674304962158,
+                "cosine_similarity_residue": 0.5694395899772644
+            }
+        ],
+        "close_in_1d_close_in_3d": [
+            {
+                "residue1_index": 55,
+                "residue2_index": 56,
+                "residue1_type": "E",
+                "residue2_type": "T",
+                "euclidean_distance_residue": 5.197251319885254,
+                "cosine_similarity_residue": 0.4692640006542206
+            },
+            {
+                "residue1_index": 9,
+                "residue2_index": 10,
+                "residue1_type": "R",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.721104145050049,
+                "cosine_similarity_residue": 0.5694624185562134
+            },
+            {
+                "residue1_index": 12,
+                "residue2_index": 13,
+                "residue1_type": "F",
+                "residue2_type": "S",
+                "euclidean_distance_residue": 5.869986057281494,
+                "cosine_similarity_residue": 0.29538771510124207
+            },
+            {
+                "residue1_index": 15,
+                "residue2_index": 16,
+                "residue1_type": "C",
+                "residue2_type": "D",
+                "euclidean_distance_residue": 5.240524768829346,
+                "cosine_similarity_residue": 0.5034162402153015
+            },
+            {
+                "residue1_index": 21,
+                "residue2_index": 22,
+                "residue1_type": "W",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 5.255438804626465,
+                "cosine_similarity_residue": 0.5151014924049377
+            }
+        ],
+        "close_in_1d_far_in_3d": [
+            {
+                "residue1_index": 15,
+                "residue2_index": 23,
+                "residue1_type": "C",
+                "residue2_type": "G",
+                "euclidean_distance_residue": 4.285346984863281,
+                "cosine_similarity_residue": 0.6145164966583252
+            },
+            {
+                "residue1_index": 14,
+                "residue2_index": 22,
+                "residue1_type": "V",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 3.5318305492401123,
+                "cosine_similarity_residue": 0.7715259790420532
+            },
+            {
+                "residue1_index": 78,
+                "residue2_index": 86,
+                "residue1_type": "S",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 5.263895034790039,
+                "cosine_similarity_residue": 0.3937007188796997
+            },
+            {
+                "residue1_index": 80,
+                "residue2_index": 88,
+                "residue1_type": "C",
+                "residue2_type": "K",
+                "euclidean_distance_residue": 5.424614906311035,
+                "cosine_similarity_residue": 0.42865073680877686
+            },
+            {
+                "residue1_index": 46,
+                "residue2_index": 54,
+                "residue1_type": "N",
+                "residue2_type": "F",
+                "euclidean_distance_residue": 5.522835731506348,
+                "cosine_similarity_residue": 0.4055538475513458
+            }
+        ],
+        "far_in_1d_close_in_3d": [
+            {
+                "residue1_index": 6,
+                "residue2_index": 112,
+                "residue1_type": "I",
+                "residue2_type": "L",
+                "euclidean_distance_residue": 4.647938251495361,
+                "cosine_similarity_residue": 0.4927660822868347
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 111,
+                "residue1_type": "P",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.737785339355469,
+                "cosine_similarity_residue": 0.5221861600875854
+            },
+            {
+                "residue1_index": 3,
+                "residue2_index": 109,
+                "residue1_type": "S",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.686129570007324,
+                "cosine_similarity_residue": 0.554790735244751
+            },
+            {
+                "residue1_index": 6,
+                "residue2_index": 111,
+                "residue1_type": "I",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 3.8524022102355957,
+                "cosine_similarity_residue": 0.6876763105392456
+            },
+            {
+                "residue1_index": 5,
+                "residue2_index": 110,
+                "residue1_type": "P",
+                "residue2_type": "C",
+                "euclidean_distance_residue": 4.349602222442627,
+                "cosine_similarity_residue": 0.5485460758209229
+            }
+        ],
+        "far_in_1d_far_in_3d": [
+            {
+                "residue1_index": 1,
+                "residue2_index": 118,
+                "residue1_type": "S",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 3.9735803604125977,
+                "cosine_similarity_residue": 0.6978629231452942
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 117,
+                "residue1_type": "S",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.077744007110596,
+                "cosine_similarity_residue": 0.6721073389053345
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 118,
+                "residue1_type": "S",
+                "residue2_type": "R",
+                "euclidean_distance_residue": 3.9968924522399902,
+                "cosine_similarity_residue": 0.6895350813865662
+            },
+            {
+                "residue1_index": 2,
+                "residue2_index": 117,
+                "residue1_type": "S",
+                "residue2_type": "V",
+                "euclidean_distance_residue": 4.14760684967041,
+                "cosine_similarity_residue": 0.6544482707977295
+            },
+            {
+                "residue1_index": 1,
+                "residue2_index": 116,
+                "residue1_type": "S",
+                "residue2_type": "A",
+                "euclidean_distance_residue": 4.31852388381958,
+                "cosine_similarity_residue": 0.6290946006774902
+            }
+        ]
+    }
+}
